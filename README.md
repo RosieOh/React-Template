@@ -75,7 +75,9 @@ npm install -D prettier
   "extends": ["plugin:prettier/recommended"]
 }
 prettier 설치 시, .eslintrc가 있으면 extends에 추가
+```
 
+```
 // .prettierrc
 {
   "printWidth": 80,
